@@ -13,9 +13,7 @@ The ground-level panoramic images are collected by Ladybug5, Satellite images ar
  <div align="center">
  
  ![0001](https://user-images.githubusercontent.com/35421034/125156753-b18d3780-e199-11eb-8f60-021145e4d3c7.jpg)
-</div>
-
-
+Data acquisition hardware </div>
 
 ## Some Instance of cross-view image pairs
 
