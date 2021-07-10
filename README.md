@@ -1,12 +1,18 @@
-# This repository including dataset of cross-view image pairs(totally 377 pairs) and related image-based geolocalization methods.
+# Dataset of cross-view image pairs & image-based geolocalization methods.
 
-This is the first cross-view image dataset contains heading data and are collected in real scenarios.
+## Introduction
+
+To evaluate the effect of cross-view image-based geo-localization method under real scenes, we build up our cross-view image dataset. Different with CVUSA or CVACT, our cross-view image dataset is **the first cross-view image dataset contains heading data** and are collected in real scenarios. It also including different settings such as spatial resolution and north alignment.
 
 The download link of cross-view image pais:
 
 https://pan.baidu.com/s/1ftxWnywyZzPdLbcTFSMqXw
 
 Extraction code: cvip
+
+The siamese network model used for image retrieval will be uploaded soon.
+
+## Data acquisition vehicle
 
 ## Some Instance of cross-view image pairs
 
