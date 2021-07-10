@@ -40,3 +40,6 @@ The ground-level panoramic images are north aligned or not north aligned. The mi
  
  ![绘图5](https://user-images.githubusercontent.com/35421034/125159124-0172fb00-e1a8-11eb-8792-c4ff623b3c6d.jpg)
   Panoramic image </div>
+
+# Maintainer
+This data set is for academic purpose **only**, if you have any issues, please contact JunboWang (junbowang@bit.edu.cn)
