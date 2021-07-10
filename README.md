@@ -4,15 +4,14 @@
 
 To evaluate the effect of cross-view image-based geo-localization method under real scenes, we build up our cross-view image dataset. Different with CVUSA or CVACT, our cross-view image dataset is **the first cross-view image dataset contains heading data** and are collected in real scenarios. It also including different settings such as spatial resolution and north alignment.
 
-The download link of cross-view image pais:
-
-https://pan.baidu.com/s/1ftxWnywyZzPdLbcTFSMqXw
-
-Extraction code: cvip
+The download link of cross-view image pais:https://pan.baidu.com/s/1ftxWnywyZzPdLbcTFSMqXw. Extraction code: cvip
 
 The siamese network model used for image retrieval will be uploaded soon.
 
-## Data acquisition vehicle
+## Data acquisition hardware
+The ground-level panoramic images are collected by Ladybug5, Satellite images are collected from google earth and geo-locations of image are collected by GPS receiver of surveying level. The image collection are synchronized with GPS receiver at 1Hz update rate. All the equipment are deployed on Buick GL8.
+[car.pdf](https://github.com/JunboWang0731/Cross-View-Image-Based-Geolocalization/files/6794886/car.pdf)
+
 
 ## Some Instance of cross-view image pairs
 
