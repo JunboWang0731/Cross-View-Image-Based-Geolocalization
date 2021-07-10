@@ -35,7 +35,7 @@ Our cross-view image pairs are collected in city, campus and rural areas. There 
 <div align="center">
 
  ![000660](https://user-images.githubusercontent.com/35421034/125153456-63bb0400-e186-11eb-82ee-ddf9b7dee168.jpg)
-19: 0.23 meter\pixel </div>
+ 19: 0.23 meter\pixel </div>
 
 <div align="center">
 
