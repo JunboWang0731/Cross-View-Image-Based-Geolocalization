@@ -10,7 +10,7 @@ The siamese network model used for image retrieval will be uploaded soon.
 
 ## Data acquisition hardware
 The ground-level panoramic images are collected by Ladybug5, Satellite images are collected from google earth and geo-locations of image are collected by GPS receiver of surveying level. The image collection are synchronized with GPS receiver at 1Hz update rate. All the equipment are deployed on Buick GL8.
-![0001](https://user-images.githubusercontent.com/35421034/125156753-b18d3780-e199-11eb-8f60-021145e4d3c7.jpg)
+ <div align="center">![0001](https://user-images.githubusercontent.com/35421034/125156753-b18d3780-e199-11eb-8f60-021145e4d3c7.jpg)
 
 
 
